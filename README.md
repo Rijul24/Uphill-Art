@@ -1,8 +1,10 @@
 # Quest-George-Pixel-Art
 
 ##All rights reserved with the developers 
-Developers - Armaan Badhan[https://github.com/armaanbadhan],
-             Rijul Singla[https://github.com/Rijul24].
+
+Armaan Badhan[https://github.com/armaanbadhan],
+
+Rijul Singla[https://github.com/Rijul24].
             
 ## Do not use any of the assets , story put here without permission of the developers.
 
