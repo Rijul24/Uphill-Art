@@ -1,4 +1,4 @@
-# Quest-George-Pixel-Art
+# Uphill-Pixel-Art
 
 ##All rights reserved with the developers 
 
